@@ -1,0 +1,1 @@
+This is my first attempt to use and commit changes to git repository
